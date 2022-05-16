@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Trojan Detection in Embedded Systems With FinFET Technology"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This study considers detecting Trojans in circuits using FinFET technology non-destructively, when a golden Integrated Circuit (IC) is unavailable. The method employs short-term aging effects in FinFET transistors and circuit overclocking to induce bit errors at the circuit outputs in conjunction with Machine Learning (ML) tools learning Trojan-free behavior. Short-term aging causes delays along multiple paths in the IC to vary dynamically, causing bit errors at circuit outputs. Overclocking enhances this in FinFET but is not necessary for bulk CMOS technology. We use bit error patterns at the output of the circuit to detect Trojans using an ML classifier trained on simulations of the Trojan-free circuit. The study shows efficacy of the method by using dynamic short-term aging-aware standard cell libraries with FinFET technology that are modeled by considering the dynamic short-term aging of each cell. Trojan detection is robust to chip-to-chip variations. We apply the technique on fourteen Trust-Hub Trojans. Our method detects Trojans with > 95% accuracy. Trojan detection in FinFET technology is more challenging than in bulk CMOS because the voltage range for switching from a high to low value is smaller. Therefore we use overclocking.'
+date: 01-27-2022
+venue: 'IEEE Transactions on Computers'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9695232'
+citation: 'V. R. Surabhi, P. Krishnamurthy, H. Amrouch, J. Henkel, R. Karri and F. Khorrami, "Trojan Detection in Embedded Systems With FinFET Technology," in <i>IEEE Transactions on Computers</i>, doi: 10.1109/TC.2022.3146217.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This study considers detecting Trojans in circuits using FinFET technology non-destructively, when a golden Integrated Circuit (IC) is unavailable. The method employs short-term aging effects in FinFET transistors and circuit overclocking to induce bit errors at the circuit outputs in conjunction with Machine Learning (ML) tools learning Trojan-free behavior. Short-term aging causes delays along multiple paths in the IC to vary dynamically, causing bit errors at circuit outputs. Overclocking enhances this in FinFET but is not necessary for bulk CMOS technology. We use bit error patterns at the output of the circuit to detect Trojans using an ML classifier trained on simulations of the Trojan-free circuit. The study shows efficacy of the method by using dynamic short-term aging-aware standard cell libraries with FinFET technology that are modeled by considering the dynamic short-term aging of each cell. Trojan detection is robust to chip-to-chip variations. We apply the technique on fourteen Trust-Hub Trojans. Our method detects Trojans with > 95% accuracy. Trojan detection in FinFET technology is more challenging than in bulk CMOS because the voltage range for switching from a high to low value is smaller. Therefore we use overclocking.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9695232)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: V. R. Surabhi, P. Krishnamurthy, H. Amrouch, J. Henkel, R. Karri and F. Khorrami, "Trojan Detection in Embedded Systems With FinFET Technology," in <i>IEEE Transactions on Computers</i>, doi: 10.1109/TC.2022.3146217.
