@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Detecting Hardware Trojans in PCBs Using Side Channel Loopbacks"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Malicious modifications to printed circuit boards (PCBs) are known as hardware Trojans. These may arise when malafide third parties alter PCBs premanufacturing or postmanufacturing and are a concern in safety-critical applications, such as industrial control systems. In this research, we examine how data-driven detection can be utilized to detect such Trojans at run-time. We develop a flexible and reconfigurable PCB test bed derived from the popular open-source programmable logic controller (PLC) platform ``OpenPLC.'' We then develop a Trojan detection framework, which utilizes and analyzes multimodal side channels (e.g., timing, magnetic signals, power, and hardware performance counters). We consider defender-configurable input/output (I/O) loopback test, comparison with design-document baselines, and magnetometer-aided monitoring of system behavior under defender-chosen excitations. Our approach can extend to golden-free environments. Golden (known-good) versions of the PCBs are assumed not available, but design information, datasheets, and component-level data are available. We demonstrate the efficacy of our approach on a range of Trojans instantiated in the test bed.'
+date: 05-12-2022
+venue: 'IEEE Transactions on Very Large Scale Integration (VLSI) Systems'
+paperurl: 'https://ieeexplore.ieee.org/document/9773327'
+citation: 'H. Pearce, V. R. Surabhi, P. Krishnamurthy, J. Trujillo, R. Karri and F. Khorrami, "Detecting Hardware Trojans in PCBs Using Side Channel Loopbacks," in <i>IEEE Transactions on Very Large Scale Integration (VLSI) Systems</i>, doi: 10.1109/TVLSI.2022.3171174.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Malicious modifications to printed circuit boards (PCBs) are known as hardware Trojans. These may arise when malafide third parties alter PCBs premanufacturing or postmanufacturing and are a concern in safety-critical applications, such as industrial control systems. In this research, we examine how data-driven detection can be utilized to detect such Trojans at run-time. We develop a flexible and reconfigurable PCB test bed derived from the popular open-source programmable logic controller (PLC) platform ``OpenPLC.'' We then develop a Trojan detection framework, which utilizes and analyzes multimodal side channels (e.g., timing, magnetic signals, power, and hardware performance counters). We consider defender-configurable input/output (I/O) loopback test, comparison with design-document baselines, and magnetometer-aided monitoring of system behavior under defender-chosen excitations. Our approach can extend to golden-free environments. Golden (known-good) versions of the PCBs are assumed not available, but design information, datasheets, and component-level data are available. We demonstrate the efficacy of our approach on a range of Trojans instantiated in the test bed.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/9773327)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: H. Pearce, V. R. Surabhi, P. Krishnamurthy, J. Trujillo, R. Karri and F. Khorrami, "Detecting Hardware Trojans in PCBs Using Side Channel Loopbacks," in <i>IEEE Transactions on Very Large Scale Integration (VLSI) Systems</i>, doi: 10.1109/TVLSI.2022.3171174.
