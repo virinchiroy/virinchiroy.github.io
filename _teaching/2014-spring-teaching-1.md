@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Academic Assistance to Undergraduate Students"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "IIT Kanpur"
+date: 2016-06-01
+location: "Kanpur, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Provided academic assistance and one-to-one mentoring to academically deficient and prohibited students. Overtaken institute level remedial classes of PHY102 (Mechanics) at regular intervals before exams for first year students who were
+facing problems in PHY102.
 
 Heading 1
 ======

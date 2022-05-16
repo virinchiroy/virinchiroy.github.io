@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Virinchi Roy Surabhi"
   avatar           : "virinchi.jpg"
-  bio              : "PhD Candidate <br/> New York University <br/> New York, NY"
-  location         : 
+  bio              : "Ph.D. Candidate <br/> New York University <br/> New York, NY"
+  location         : "Brooklyn, NY"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aoev-LEAAAAJ&hl=en"
-  email            :
+  email            : "virinchi.roy@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

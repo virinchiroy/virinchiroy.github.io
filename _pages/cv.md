@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electrical Engineering, IIT Kanpur, 2018
+* Ph.D. in Electrical Engineering, New York University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Research Assistant
+  * New York University
+  * Duties included: Developed a framework for quantifying the interdependencies between infrastructures using Dynamic Mode Decomposition (DMD). Constructed a multi layer network for visualization of the networks using the matrix from DMD. Analyzed the vulnerabilities in the network through motifs and markov decision rule model.
+  * Supervisor: Professor Quanyan Zhu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2016: Research Assistant
+  * IIT Kanpur
+  * Duties included: Studied various spectrum sensing schemes like GLRT, L-GLRT, Correlator, Energy Detector. Implemented the algorithms by simulating them in MATLAB using a large set of channel realizations. Analyzed the performance of each spectrum sensing scheme for various number of receivers and threshold values.
+  * Supervisor: Professor Aditya Jagannatham
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python, C/C++, MATLAB, Java, R, Verilog, VHDL
+* Platforms: Linux (Ubuntu, Redhat Linux, Fedora, CentOS), Windows, Arduino, Raspberry, FPGA
+
 
 Publications
 ======
@@ -54,6 +50,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "K-12 STEM Summer Education in Machine Learning"
 collection: teaching
-type: "Workshop"
+type: "Summer School"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "New York University"
+date: 2021-08-01
+location: "New York, NY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Designed course material including projects and assignments. Taught first level machine learning to high school students along with deep learning tools like Tensorflow. Provided academic assistance and one-to-one mentoring.
 
 Heading 1
 ======
