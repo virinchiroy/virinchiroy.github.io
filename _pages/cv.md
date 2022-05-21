@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Electrical Engineering, IIT Kanpur, 2018
 * Ph.D. in Electrical Engineering, New York University, 2023 (expected)
+* B.Tech. in Electrical Engineering, IIT Kanpur, 2018
+
 
 Work experience
 ======
